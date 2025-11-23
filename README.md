@@ -214,16 +214,4 @@ streamlit run dashboard/app.py
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-## ⚠️ Disclaimer
-
-**This system is designed for educational and research purposes only.** It is not a certified medical device and should not be used for clinical diagnosis or treatment decisions. Always consult healthcare professionals for medical advice.
-
----
-
-**Made with ❤️ for IoT Healthcare Innovation**
